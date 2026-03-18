@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird — Deep Reinforcement Learning
+# 🐦 Flappy Bird — Reinforcement Learning
 
 An AI agent trained to play **Flappy Bird** using **Deep Q-Network (DQN)**. The agent learns purely from gameplay experience — no hard-coded rules, just a neural network approximating optimal actions through trial and reward.
 
