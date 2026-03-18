@@ -1,0 +1,6 @@
+# Flappy Bird RL — Python dependencies
+# Install with:  pip install -r requirements.txt
+pygame-ce==2.5.7
+numpy>=1.24
+torch>=2.0
+matplotlib>=3.7
